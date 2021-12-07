@@ -5,4 +5,5 @@ Go to the folder location and run npm start to see the website locally hosted on
 
 This is how the website looks:
 
-![screencapture-localhost-3000-2021-12-07-09_41_30](https://user-images.githubusercontent.com/66168933/144964946-817269e6-e0a2-40de-8b02-a806ad9ef5b8.png)
+
+![2021-12-07_10-04-04](https://user-images.githubusercontent.com/66168933/144967045-c2a80ed0-b9a2-4d3d-8ba7-437aa8fa47b2.png)
