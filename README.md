@@ -1,7 +1,7 @@
 # React-JS-WebApp
 
-Website made using React-JS
-Go to the folder location and run npm start to see the website locally hosted on your PC.
+Website made using React-JS  </br>
+Go to the folder location and run npm start to see the website locally hosted on your PC. </br>
 
 This is how the website looks:
 
